@@ -38,7 +38,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		randomNumber = rand() % 100 + 1;
 		numbers.push_back(randomNumber);
 	}
-
+	
+	//New Line to set up change in project
 	for(vector<int>::const_iterator i = numbers.begin(); i != numbers.end(); ++i) {
 		cout << *i << " ";
 	}
