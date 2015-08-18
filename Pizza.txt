@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sausage is pretty good too.
+=======
+Pepperoni is the best!!!
+>>>>>>> Testy2
